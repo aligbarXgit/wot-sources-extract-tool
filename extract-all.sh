@@ -1,6 +1,6 @@
 #!/bin/bash
 WOTPATH=$(wot-dir)
-
+sms
 SCRIPTDIR=$(dirname "$(readlink -f "$0")")
 OUTPATH=$SCRIPTDIR/extracts
 
